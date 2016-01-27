@@ -1,0 +1,31 @@
+{
+    "name": "Typescript AMD Boilerplate",
+    "version": "1.0.0",
+    "description": "Typescript client project setup for Visual Studio Code with debugging link to Chrome and live realoading using BrowserSync. Does bundling and minifaction with keeping CDN links. No Browserify, no Webpack needed.",
+    "author": {
+        "name": "Andreas Neumann"
+    },
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/a-neumann/typescript-amd-boilerplate.git"
+    },
+    "dependencies": {},
+    "devDependencies": {
+        "amd-optimize": "^0.6.1",
+        "browser-sync": "^2.10.0",
+        "gulp-concat": "^2.6.0",
+        "gulp-cssnano": "^2.0.0",
+        "gulp-file": "^0.2.0",
+        "gulp-less": "^3.0.5",
+        "gulp-sourcemaps": "^1.5.2",
+        "gulp-tmpl2js": "^0.1.1",
+        "gulp-typescript": "^2.8.0",
+        "gulp-uglify": "^1.5.1",
+        "main-bower-files": "^2.11.0"
+    },
+    "exclude": [
+        "node_modules",
+        "bower_components"
+    ]
+}

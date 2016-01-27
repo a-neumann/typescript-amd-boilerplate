@@ -1,0 +1,11 @@
+{
+    "baseUrl": "scripts",
+    "paths": {
+        "mustache": [
+            "https://cdnjs.cloudflare.com/ajax/libs/mustache.js/2.2.1/mustache.min.js",
+            "../lib/mustache.js/mustache"
+        ]
+    },
+    "deps": [
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "version": "0.1.0",
+    "configurations": [
+        {
+            "name": "attach to chrome",
+            "type": "chrome",
+            "port": 9222,
+            "request": "attach",
+            "sourceMaps": true,
+            "diagnosticLogging": true,
+            "webRoot": "./src"
+        }
+    ]
+}

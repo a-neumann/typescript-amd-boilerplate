@@ -1,7 +1,7 @@
 {
     "name": "Typescript AMD Boilerplate",
     "version": "1.0.0",
-    "description": "Typescript client project setup for Visual Studio Code with debugging link to Chrome and live realoading using BrowserSync. Does bundling and minifaction with keeping CDN links. No Browserify, no Webpack needed.",
+    "description": "Typescript client project setup with Visual Studio Code debugging link to Chrome and live realoading using BrowserSync. Does bundling and minifaction with keeping CDN links. No Browserify, no Webpack needed.",
     "author": {
         "name": "Andreas Neumann"
     },
